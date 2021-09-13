@@ -50,8 +50,8 @@ Hi there, I'm **Kevin Willian**, a **Web Development student at Trybe**, and a f
 
  <div>
   <a href="https://github.com/zLibrian">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zLibrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLibrian&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zLibrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLibrian&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <br/>
