@@ -63,7 +63,7 @@ Hi there, I'm **Kevin Willian**, a **Web Development student at Trybe**, and a f
  <div align="center">
   <a href="https://github.com/zLibrian">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=zLibrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLibrian&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLibrian&layout=compact&langs_count=10&theme=dracula"/>
 </div>
   
   ![snake gif](https://github.com/zLibrian/zLibrian/blob/output/github-contribution-grid-snake.svg)
